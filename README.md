@@ -3,9 +3,10 @@
 For overview of the approach and evaluation results, please refer to [Fine-tuning-approach.pptx](Fine-tuning-approach.pptx)
 
 ## Requirements
-* Memory > 16 GB
+* Memory >= 16 GB
 * GPU >= Nvidia T4
 * Linux environment
+* Note: Training scripts will not work in colab environment
 
 ## Data
 * Download data from [here](https://drive.google.com/drive/folders/1OIYTrXP1WEtRhFOJItnPb129V2DFQCLF)
