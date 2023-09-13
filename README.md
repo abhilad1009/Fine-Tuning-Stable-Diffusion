@@ -1,6 +1,6 @@
 # Fine-Tuning-Stable-Diffusion
 
-For overview of the approach and evaluation results, please refer to [Fine-tuning approach.pptx](Fine-tuning approach.pptx)
+For overview of the approach and evaluation results, please refer to [Fine-tuning-approach.pptx](Fine-tuning-approach.pptx)
 
 ## Requirements
 * Memory > 16 GB
