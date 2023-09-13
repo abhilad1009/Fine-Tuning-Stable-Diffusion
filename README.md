@@ -2,6 +2,10 @@
 
 For overview of the approach and evaluation results, please refer to [Fine-tuning-approach.pptx](Fine-tuning-approach.pptx)
 
+## Demo
+* Text-to-image demo: [https://huggingface.co/abhilad98/abhi_thumbsup](https://huggingface.co/abhilad98/abhi_thumbsup)
+* Dreambooht demo: [https://huggingface.co/abhilad98/db_abhi](https://huggingface.co/abhilad98/db_abhi)
+
 ## Requirements
 * Memory >= 16 GB
 * GPU >= Nvidia T4
