@@ -10,6 +10,7 @@ For overview of the approach and evaluation results, please refer to [Fine-tunin
 
 ## Data
 * Download data from [here](https://drive.google.com/drive/folders/1OIYTrXP1WEtRhFOJItnPb129V2DFQCLF)
+* Manually annotated captions for text-to-image are available in [metadata.jsonl](metadata.jsonl)
 * There are 3 data files each for a specific fine-tuning task
 
 ## General Instructions
