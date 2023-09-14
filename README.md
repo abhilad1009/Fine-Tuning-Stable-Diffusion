@@ -23,4 +23,4 @@ For overview of the approach and evaluation results, please refer to [Fine-tunin
 * Dreambooth: [https://wandb.ai/areswolf/dreambooth-lora/runs/icne4ce2?workspace=user-abhilad1009](https://wandb.ai/areswolf/dreambooth-lora/runs/icne4ce2?workspace=user-abhilad1009)
 ## Demo
 * Text-to-image demo: [https://huggingface.co/abhilad98/abhi_thumbsup](https://huggingface.co/abhilad98/abhi_thumbsup)
-* Dreambooht demo: [https://huggingface.co/abhilad98/db_abhi](https://huggingface.co/abhilad98/db_abhi)
+* Dreambooth demo: [https://huggingface.co/abhilad98/db_abhi](https://huggingface.co/abhilad98/db_abhi)
